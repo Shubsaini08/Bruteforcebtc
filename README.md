@@ -7,8 +7,11 @@ By- saving them into corresponding FILES📂
 different scripts for different use: [ inc.]
 
 >○ BRUTE5.PY- 400KEYS PER SEC
+>
 >○ BRUTE6.PY- (-SLOWEST-) 🚩
+>
 >○ BRUTE7.PY- 600KEYS PER SEC
+>
 >○ BRUTE8.PY- 900KEYS PER SEC
 
 # brute5.py
@@ -24,19 +27,31 @@ the script will run and saves outputs into brute5.txt file
 # brute7.py
 
 • highly advanced script that will generates over 6 kinds of Addresses..
->P2PKH (Compressed): 
->P2PKH (Uncompressed): 
->P2WPKH (Compressed): 
->P2WPKH (Uncompressed): 
->Bech32 Address: 
+
+>P2PKH (Compressed):
+>
+>P2PKH (Uncompressed):
+>
+>P2WPKH (Compressed):
+>
+>P2WPKH (Uncompressed):
+>
+>Bech32 Address:
+>
 >P2SH Address:
 
 # brute8.py 
+
 • Advanced with few options to choose for: 
+
 >1. Generate a specific number of keys (ENTER-AMOUNT)
+>
 >2. Start generating random keys (SCRIPT USES RNG OF ALL KIND OF WALLETS)
+>   
 >3. Generate keys in a range (SPEED IS GOOD FOR KEYRANGE AS COMPARED TO BRUTE7.PY)
+>   
 >4. Hunt for puzzles (CURRENTLY @67 AND 76)
+>   
 >Enter your choice:
 
 DON'T WORRY WE GOT YOU. 
